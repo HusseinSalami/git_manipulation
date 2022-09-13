@@ -3,4 +3,4 @@ def main():
 
 
 def main_new():
-    print('new main')
+    print('new main1')
