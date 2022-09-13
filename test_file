@@ -1,6 +1,8 @@
 def main():
   print('hello world')
 
+def feature_branch():
+    print('this is the feature method')
 
 def main_new():
     print('new main')
