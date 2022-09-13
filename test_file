@@ -1,2 +1,6 @@
 def main():
   print('hello world')
+
+
+def main_new():
+    print('new main')
